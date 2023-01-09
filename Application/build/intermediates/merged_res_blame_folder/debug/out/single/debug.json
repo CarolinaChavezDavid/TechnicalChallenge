@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/layout_character_activity.xml.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/character_activity.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/layout_character_item.xml.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/character_item.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/menu_main.xml.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/layout_sample_main.xml.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/sample_main.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/merged_res/debug/layout_characters_fragment.xml.flat",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/characters_fragment.xml"
+    }
+]

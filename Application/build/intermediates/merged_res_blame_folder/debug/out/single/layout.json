@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sample_main.xml",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/sample_main.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/character_activity.xml",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/character_activity.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/character_item.xml",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/character_item.xml"
+    },
+    {
+        "merged": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/characters_fragment.xml",
+        "source": "/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/src/main/res/layout/characters_fragment.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Jan 09 18:28:20 COT 2023
+base.0=/Users/stefany.chavez/Documents/TechnicalChallenge/TechnicalChallenge/Application/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

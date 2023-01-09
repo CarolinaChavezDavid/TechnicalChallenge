@@ -1,0 +1,10 @@
+com/example/android/networkconnect/databinding/CharacterActivityBinding.java
+ com.example.android.networkconnect.databinding.CharacterActivityBinding
+com/example/android/networkconnect/BuildConfig.java
+ com.example.android.networkconnect.BuildConfig
+com/example/android/networkconnect/databinding/CharactersFragmentBinding.java
+ com.example.android.networkconnect.databinding.CharactersFragmentBinding
+com/example/android/networkconnect/databinding/CharacterItemBinding.java
+ com.example.android.networkconnect.databinding.CharacterItemBinding
+com/example/android/networkconnect/databinding/SampleMainBinding.java
+ com.example.android.networkconnect.databinding.SampleMainBinding
